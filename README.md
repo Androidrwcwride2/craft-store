@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.com/projects/canonical-craft-store/badge/?version=latest)](https://canonical-craft-store.readthedocs-hosted.com/en/latest/?badge=latest)
+[![Documentation/Androidrwcwride2 /Android.Developers.com/Android.X./Status](https://readthedocs.com/projects/canonical-craft-store/badge/?version=latest)](https://canonical-craft-store.readthedocs-hosted.com/en/latest/?badge=latest)
 
 # Craft Store
 
